@@ -1,4 +1,4 @@
-# O'COMMA Admin
+# simpleCrawlerDrowzee
 
 월급도둑질하면서 만든 특정 사이트 크롤링 & 디스코드 웹훅 
 
